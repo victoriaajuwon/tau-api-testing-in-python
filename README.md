@@ -12,7 +12,7 @@ The API tetsing with python project was used to follow the tutorial on API Testi
 
 1. Clone the repository.
     ```sh
-    cd backend
+    git clone https://github.com/victoriaajuwon/tau-api-testing-in-python.git
     ```
 2.On another terminal, navigate to the root directory in your terminal
     ```sh
