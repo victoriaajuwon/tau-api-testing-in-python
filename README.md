@@ -11,23 +11,23 @@ The API tetsing with python project was used to follow the tutorial on API Testi
 ### Setup
 
 1. Clone the repository.
-    ```sh
+   ```sh
     git clone https://github.com/victoriaajuwon/tau-api-testing-in-python.git
     ```
-2.On another terminal, navigate to the root directory in your terminal
+2. On another terminal, navigate to the root directory in your terminal
     ```sh
     cd tau-api-testing-in-python
     ```
 3. You need to ensure you have virtual environment set up for the project
 4. You can either use pipenv or pip, to use pipenv is installed. To install pipenv follow this [link](https://pipenv.pypa.io/en/latest/installation.html). To install pip, follow this [link](https://pip.pypa.io/en/stable/installation/)
-4. Install dependencies using pipenv
+5. Install dependencies using pipenv
     ```sh
     # Activate virtualenv
     pipenv shell
     # install
     pipenv install
     ```
-5. Install dependencies using pip
+6. Install dependencies using pip
     ```sh
     # Create virtualenv, inside the root directory, use the code below
     python -m venv venv
